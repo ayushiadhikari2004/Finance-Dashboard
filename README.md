@@ -1,6 +1,4 @@
-# Finance Dashboard UI
-
-A premium, luxury-themed personal finance dashboard built with React and TypeScript. Designed with an elegant "Obsidian Gold" / dark glassmorphism aesthetic that can dynamically switch to a clean, crisp "Soft Beige" Light Mode.
+# Finance Dashboard 
 
 ## Overview of Approach
 
