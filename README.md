@@ -56,9 +56,9 @@ To securely map and bundle the React project for static deployment:
 ```bash
 npm run build
 ```
-###Screenshots
+# Screenshots
 
-Dashboard
+### Dashboard
 
 <img width="1920" height="871" alt="Screenshot from 2026-04-04 09-23-58" src="https://github.com/user-attachments/assets/6e00c9cb-3246-45a4-b25c-adcdeebf10b7" />
 
