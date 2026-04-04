@@ -34,12 +34,12 @@ This application focuses on both maximum aesthetic quality and extremely robust 
   <img src="https://github.com/user-attachments/assets/308466a1-c019-443b-9bea-e8ae2236d800" width="800"/>
 </p>
 
-### Analytics & Charts
+### Transactions Panel
 <p align="center">
   <img src="https://github.com/user-attachments/assets/6e00c9cb-3246-45a4-b25c-adcdeebf10b7" width="800"/>
 </p>
 
-### Transactions Panel
+### Light Mode
 <p align="center">
   <img src="https://github.com/user-attachments/assets/bab7153b-4288-4a15-843b-94e7725f9b05" width="800"/>
 </p>
