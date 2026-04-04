@@ -24,7 +24,7 @@ export function SummaryCards({ balance, income, expenses }: SummaryCardsProps) {
         </div>
         <CurrencyDisplay amount={balance} className="text-[1.9rem] font-bold leading-tight"
                          style={{ color: '#130D06' }} />
-        <p className="text-xs mt-2.5 font-medium" style={{ color: 'rgba(18,12,4,0.5)' }}>Net portfolio value</p>
+        <p className="text-xs mt-2.5 font-medium" style={{ color: 'rgba(18,12,4,0.5)' }}>Net value</p>
       </div>
 
       {/* ── Total Income ── theme-aware green card ────── */}
