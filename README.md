@@ -26,6 +26,26 @@ This application focuses on both maximum aesthetic quality and extremely robust 
 - **Currency Typography Separation**: Explicit structural DOM separation guarantees that the Rupees Symbol (`₹`) and amounts gracefully expand natively across screen breakpoints without ever clipping or collapsing into each other.
 - **Personalized Header**: Editable Avatar/User Profile header with persisting name saving.
 
+# Screenshots
+
+### Dashboard
+  
+ <p align="center">
+  <img src="https://github.com/user-attachments/assets/308466a1-c019-443b-9bea-e8ae2236d800" width="800"/>
+</p>
+
+### Transactions Panel
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6e00c9cb-3246-45a4-b25c-adcdeebf10b7" width="800"/>
+</p>
+
+### Light Mode
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/bab7153b-4288-4a15-843b-94e7725f9b05" width="800"/>
+</p>
+
+---
+
 ## Setup Instructions
 
 ### 1. Prerequisites
@@ -56,3 +76,4 @@ To securely map and bundle the React project for static deployment:
 ```bash
 npm run build
 ```
+

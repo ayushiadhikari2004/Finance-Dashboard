@@ -1,8 +1,5 @@
 import React from 'react';
 
-/* ──────────────────────────────────────────────
-   Currency Display Component
-────────────────────────────────────────────── */
 
 interface CurrencyDisplayProps {
   amount: number;
@@ -47,7 +44,7 @@ export function CurrencyDisplay({
         </span>
       )}
 
-      {/* Rupee symbol - separated and scaled without tabular-nums to prevent missing glyphs */}
+      {/* Rupee symbol  */}
       <span
         style={{
           fontSize: '0.85em',
@@ -65,10 +62,6 @@ export function CurrencyDisplay({
     </span>
   );
 }
-
-/* ──────────────────────────────────────────────
-   Currency Cell (for tables / lists)
-────────────────────────────────────────────── */
 
 interface CurrencyCellProps {
   amount: number;
@@ -114,10 +107,6 @@ export function CurrencyCell({ amount, type }: CurrencyCellProps) {
     </span>
   );
 }
-
-/* ──────────────────────────────────────────────
-   Optional Helper (Reusable Formatter)
-────────────────────────────────────────────── */
 
 export function formatINR(amount: number): string {
   return new Intl.NumberFormat('en-IN', {
